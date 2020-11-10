@@ -1,0 +1,19 @@
+﻿Class ID,Subject,Subject ID,Class Type,Class Type ID,Professor,Professor ID,Time Slot
+1,Math,1,STEM,1,Adams,1,1
+2,Math,1,STEM,1,Cleveland,3,2
+3,Computer Science,2,STEM,1,Buchanan,2,3
+4,Computer Science,2,STEM,1,Delano,4,4
+5,Physics,3,STEM,1,Cleveland,3,4
+6,Physics,3,STEM,1,Delano,4,2
+7,Biology,4,STEM,1,Adams,1,3
+8,Biology,4,STEM,1,Buchanan,2,1
+9,Chemistry,5,STEM,1,Delano,4,4
+10,Chemistry,5,STEM,1,Cleveland,3,2
+11,History,6,Liberal Arts,2,Buchanan,2,4
+12,History,6,Liberal Arts,2,Cleveland,3,1
+13,English,7,Liberal Arts,2,Adams,1,1
+14,English,7,Liberal Arts,2,Delano,4,3
+15,Spanish,8,Foreign Language,3,Adams,1,2
+16,Spanish,8,Foreign Language,3,Ike,5,1
+17,French,9,Foreign Language,3,Ike,5,3
+18,French,9,Foreign Language,3,Buchanan,2,2
