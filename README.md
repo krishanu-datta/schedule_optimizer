@@ -32,7 +32,7 @@ corresponding to class IDs of the classes the student should enroll in.
 - Run all the cells in the Notebook and watch the application return your perfect schedule!
 
 ### Other Notes
-Tests (examples of tool in use) can be found in the ___ file.
+Tests (examples of tool in use) can be found in the `Schedule Optimization Tests.ipynb` file.
 
 
 ### Additional Information
