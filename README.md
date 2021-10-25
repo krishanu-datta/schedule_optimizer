@@ -1,7 +1,7 @@
 # Welcome to the Schedule Optimizer!
 ## Overview
-The goal of project was to design a tool that applies the ideas of customization, optimization and prioritization, which people
-already unknowingly apply in their personal lives, to people’s rigid daytime schedules. In particular, this application aims to
+The goal of project was to design a tool that applies the ideas of customization, optimization and prioritization (which people
+already unknowingly apply in their personal lives) to people’s rigid daytime schedules. In particular, this application aims to
 to create an optimal schedule for high school or college students by analyzing their tastes and preferences in which subjects
 they want to enroll in, which professors or teachers they want to learn from, and what types of classes they want to take.
 
