@@ -27,7 +27,7 @@ corresponding to class IDs of the classes the student should enroll in.
 ### Instructions
 - Download all the files in this repo.
 - Download and install Anaconda (https://www.anaconda.com/) into your computer.
-- Open the Jupyter Notebook Application and open the `Class Schedule Optimizer.ipynb` file.
+- Open the Jupyter Notebook application and open the `Class Schedule Optimizer.ipynb` file.
 - In the first cell, input the information that is asked.
 - Run all the cells in the Notebook and watch the application return your perfect schedule!
 
@@ -36,6 +36,6 @@ Tests (examples of tool in use) can be found in the `Schedule Optimization Tests
 
 
 ### Additional Information
-For more information, access the __ file, as this project was originally part of a research project
+For more information, access the `Giving Students What They Want.pdf` file, as this project was originally part of a research project
 for a logic and computation class.
 
